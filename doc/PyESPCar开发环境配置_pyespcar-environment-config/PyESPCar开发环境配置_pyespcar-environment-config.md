@@ -28,7 +28,7 @@ Ubuntu是你步入开源世界的大门. 你可以选择在虚拟机下安装Ubu
 
 如果你是用的Ubuntu虚拟机的话, 1Z实验室有虚拟机的安装教程:
 
-[Ubuntu虚拟机安装-VirtualBox](https://github.com/1zlab/1ZLAB_OpenCV_Tutorial/blob/master/%E9%99%84%E5%BD%95A.OpenCV%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/Ubuntu/1.Ubuntu%E8%99%9A%E6%8B%9F%E6%9C%BA%E5%AE%89%E8%A3%85-VirtualBox/Ubuntu%E8%99%9A%E6%8B%9F%E6%9C%BA%E5%AE%89%E8%A3%85-VirtualBox.md)
+[Ubuntu虚拟机安装-VirtualBox](https://github.com/1zlab/1ZLAB_OpenCV_Tutorial/blob/master/OpenCV%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE_opencv-develop-environment/%E4%BD%BF%E7%94%A8VirtualBox%E5%AE%89%E8%A3%85Ubuntu%E8%99%9A%E6%8B%9F%E6%9C%BA%E5%AE%89%E8%A3%85_virtualbox-ubuntu-vm-install/%E4%BD%BF%E7%94%A8VirtualBox%E5%AE%89%E8%A3%85Ubuntu%E8%99%9A%E6%8B%9F%E6%9C%BA%E5%AE%89%E8%A3%85_virtualbox-ubuntu-vm-install.md)
 
 
 
